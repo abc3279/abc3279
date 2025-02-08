@@ -1,4 +1,4 @@
-DooHyun Kim
+# DooHyun Kim
 -----------
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40abc3279%2Fabout&count_bg=%23B16CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
@@ -7,7 +7,7 @@ DooHyun Kim
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abc3279)](https://solved.ac/abc3279/)
 
 
-# SKILL
+## SKILL
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula)
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" alt="C">
