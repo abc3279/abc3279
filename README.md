@@ -7,9 +7,9 @@
   <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white" alt="notion"> </a>
 
 
-  \-  
-  \-  
-  \-  
+  Major in Media Technology  
+  Major in Computer Science  
+  Minor in Acturial Science
 
   </br>
 </div>  
