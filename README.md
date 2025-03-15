@@ -17,7 +17,7 @@
 
 <div align="center"> 
 <!--   language 수가 충분할 때 height 속성 삭제 -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=jupyter%20notebook"  height=200px width=350px/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=jupyter%20notebook,ShaderLab,HLSL&cache_seconds=1800"  height=200px width=350px/>
   
   ### Stacks
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
