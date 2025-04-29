@@ -3,7 +3,8 @@
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc3279"/>
   
   ## DooHyun Kim
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabc3279&count_bg=%23A549E6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/abc3279)  <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white" alt="Velog"> </a> 
+  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabc3279&count_bg=%23A549E6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/abc3279)  --> 
+  <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white" alt="Velog"> </a> 
   <!-- <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white" alt="notion"> </a> -->
 
 
